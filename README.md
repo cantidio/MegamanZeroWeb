@@ -4,3 +4,5 @@ MegamanZeroWeb
 ==============
 
 Megaman Game with multiplayer playability implemented in Dart
+
+[Try it](http://megamandart.herokuapp.com)
