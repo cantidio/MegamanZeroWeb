@@ -1,0 +1,12 @@
+name: MegamanZeroWeb
+version: 0.0.1
+description: A sample web application
+dependencies:
+  browser: '>=0.10.0+2 <0.11.0'
+  duengine:
+    git:
+      ref: 
+      url: https://github.com/cantidio/duEngine
+  gorgon: '>=0.13.4 <0.14.0'
+dev_dependencies:
+  unittest: '>=0.11.0+2 <0.12.0'
