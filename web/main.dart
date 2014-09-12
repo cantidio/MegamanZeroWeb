@@ -7,37 +7,30 @@ import 'package:gorgon/gorgon.dart';
 import 'dart:html';
 import 'dart:async';
 
-main()
-{
-  Display display = new Display( query("#display"), width: 640, height: 480 );
+main() {
+  Display display = new Display(query("#display"), width: 640, height: 480);
+  Spritepack sp = new Spritepack.fromJSON("resources/obj/player/black_zero/spritepack.json");
+  Animationpack ap = new Animationpack.fromJSON("resources/obj/player/black_zero/animationpack.json");
 
+  Future.wait([sp.onLoad, ap.onLoad]).then((_) {
+    Animator zero1 = new Animator(sp, ap);
+    Animator zero2 = new Animator(sp, ap);
+    Animator zero3 = new Animator(sp, ap);
 
-  //this resource should be removed, it was used only to make sure the dependencies were working nicely
-  Spritepack sp = new Spritepack.fromTileSheet("resources/mario_tilesheet.png", 16,16 );
-  sp.onLoad.then((_){
-    num ang = 0.0;
-    num scale = 1.0;
-    int scale_mod = 1;
-    List<Tile> tl = [];
-    sp.groups.forEach((String group){
-      tl.add(new Tile(sp[group]));
+    zero1.changeAnimation("Stand");
+    zero2.changeAnimation("Walk");
+    zero3.changeAnimation("ZSaber-1");
+    Timer timer = new Timer.periodic(const Duration(milliseconds: 1000 ~/ 60), (_) {
+      display.clear();
+
+      zero1.draw(new Point2D(50, 50));
+      zero2.draw(new Point2D(120, 50));
+      zero3.draw(new Point2D(200, 50));
+      zero1.runStep();
+      zero2.runStep();
+      zero3.runStep();
+
     });
-
-    TileMap map = new TileMap.fromMatrix([
-                                          [tl[0],tl[1],tl[2]],
-                                          [tl[0],tl[1],tl[2]],
-                                          [tl[0],tl[1],tl[2]],
-                                          [tl[0],tl[1],tl[2]],
-                                          [tl[0],tl[1],tl[2]],
-                                          [tl[0],tl[1],tl[2]]
-                                          ], new Point2D(16,16));
-
-    int tile = 0;
-      Timer timer = new Timer.periodic( const Duration(milliseconds: 1000~/3), (_) {
-         display.clear();
-         map.draw(new Point2D(0, 0));
-         map.logic();
-      });
   });
 
 

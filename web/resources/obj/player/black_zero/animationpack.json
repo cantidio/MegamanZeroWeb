@@ -1,0 +1,55 @@
+{"animationpack":{
+   "Stand": {
+      "looping":      true,
+      "loopFrame":    0,
+      "repeatNumber": -1,
+      "time":         5,
+      "frames": [
+        { "group": "Stand", "index": 0 },
+        { "group": "Stand", "index": 1 },
+        { "group": "Stand", "index": 2 },
+        { "group": "Stand", "index": 3 },
+        { "group": "Stand", "index": 4 },
+        { "group": "Stand", "index": 5 }
+      ]
+    },
+    "Walk": {
+      "looping":      true,
+      "loopFrame":    2,
+      "repeatNumber": -1,
+      "time":         3,
+      "frames": [
+        { "group": "Walk", "index": 0 },
+        { "group": "Walk", "index": 1 },
+        { "group": "Walk", "index": 2 },
+        { "group": "Walk", "index": 3 },
+        { "group": "Walk", "index": 4 },
+        { "group": "Walk", "index": 5 },
+        { "group": "Walk", "index": 6 },
+        { "group": "Walk", "index": 7 },
+        { "group": "Walk", "index": 8 },
+        { "group": "Walk", "index": 9 },
+        { "group": "Walk", "index": 10 },
+        { "group": "Walk", "index": 11 },
+        { "group": "Walk", "index": 12 },
+        { "group": "Walk", "index": 13 },
+        { "group": "Walk", "index": 14 },
+        { "group": "Walk", "index": 15 }
+      ]
+    },
+    "ZSaber-1": {
+      "looping":      true,
+      "loopFrame":    0,
+      "repeatNumber": -1,
+      "time":         3,
+      "frames": [
+        { "group": "ZSaber-2", "index": 0 },
+        { "group": "ZSaber-2", "index": 1 },
+        { "group": "ZSaber-2", "index": 2 },
+        { "group": "ZSaber-2", "index": 3 },
+        { "group": "ZSaber-2", "index": 4 },
+        { "group": "ZSaber-2", "index": 5 },
+        { "group": "ZSaber-2", "index": 6 }
+      ]
+    }
+}}

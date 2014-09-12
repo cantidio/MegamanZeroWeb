@@ -1,6 +1,6 @@
 {
   "spritepack": {
-    "0": [
+    "Stand": [
       {
         "image": "0000-00.png",
         "xoffset": -21,
@@ -76,7 +76,7 @@
         "yoffset": -36
       }
     ],
-    "20": [
+    "Walk": [
       {
         "image": "0020-00.png",
         "xoffset": -20,
@@ -168,7 +168,7 @@
         "yoffset": -44
       }
     ],
-    "41": [
+    "Jump": [
       {
         "image": "0041-00.png",
         "xoffset": -20,
@@ -230,7 +230,7 @@
         "yoffset": -41
       }
     ],
-    "50": [
+    "DoubleJump": [
       {
         "image": "0050-00.png",
         "xoffset": -29,
@@ -262,7 +262,7 @@
         "yoffset": -40
       }
     ],
-    "100": [
+    "Dash": [
       {
         "image": "0100-00.png",
         "xoffset": -18,
@@ -425,7 +425,7 @@
         "yoffset": -51
       }
     ],
-    "190": [
+    "Intro": [
       {
         "image": "0190-00.png",
         "xoffset": -2,
@@ -502,7 +502,7 @@
         "yoffset": -47
       }
     ],
-    "200": [
+    "ZSaber-1": [
       {
         "image": "0200-00.png",
         "xoffset": -18,
@@ -574,7 +574,7 @@
         "yoffset": -44
       }
     ],
-    "210": [
+    "ZSaber-2": [
       {
         "image": "0210-00.png",
         "xoffset": -23,
@@ -611,7 +611,7 @@
         "yoffset": -42
       }
     ],
-    "220": [
+    "ZSaber-3": [
       {
         "image": "0220-00.png",
         "xoffset": -27,
