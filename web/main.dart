@@ -8,7 +8,7 @@ import 'dart:html';
 import 'dart:async';
 
 main() {
-  Display display = new Display(query("#display"), width: 640, height: 480);
+  Display display = new Display(query("#display"), width: 640, height: 480, imageSmoothing: true);
   Spritepack sp = new Spritepack.fromJSON("resources/obj/player/black_zero/spritepack.json");
   Animationpack ap = new Animationpack.fromJSON("resources/obj/player/black_zero/animationpack.json");
 
@@ -16,7 +16,7 @@ main() {
     Animator zero1 = new Animator(sp, ap);
     Animator zero2 = new Animator(sp, ap);
     Animator zero3 = new Animator(sp, ap);
-
+    num ang = 1.0;
     zero1.changeAnimation("Stand");
     zero2.changeAnimation("Walk");
     zero3.changeAnimation("ZSaber-1");
@@ -24,7 +24,7 @@ main() {
       display.clear();
 
       zero1.draw(new Point2D(50, 50));
-      zero2.draw(new Point2D(120, 50));
+      zero2.draw(new Point2D(120, 50), rotation: ang+=0.6);
       zero3.draw(new Point2D(200, 50));
       zero1.runStep();
       zero2.runStep();
