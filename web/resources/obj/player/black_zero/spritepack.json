@@ -1,0 +1,3239 @@
+{
+  "spritepack": {
+    "0": [
+      {
+        "image": "0000-00.png",
+        "xoffset": -21,
+        "yoffset": -44
+      },
+      {
+        "image": "0000-01.png",
+        "xoffset": -21,
+        "yoffset": -44
+      },
+      {
+        "image": "0000-02.png",
+        "xoffset": -21,
+        "yoffset": -44
+      },
+      {
+        "image": "0000-03.png",
+        "xoffset": -21,
+        "yoffset": -44
+      },
+      {
+        "image": "0000-04.png",
+        "xoffset": -20,
+        "yoffset": -45
+      },
+      {
+        "image": "0000-05.png",
+        "xoffset": -20,
+        "yoffset": -44
+      }
+    ],
+    "1": [
+      {
+        "image": "0001-00.png",
+        "xoffset": -20,
+        "yoffset": -44
+      },
+      {
+        "image": "0001-01.png",
+        "xoffset": -18,
+        "yoffset": -45
+      },
+      {
+        "image": "0001-02.png",
+        "xoffset": -20,
+        "yoffset": -44
+      },
+      {
+        "image": "0001-03.png",
+        "xoffset": -20,
+        "yoffset": -43
+      },
+      {
+        "image": "0001-04.png",
+        "xoffset": -20,
+        "yoffset": -43
+      },
+      {
+        "image": "0001-05.png",
+        "xoffset": -20,
+        "yoffset": -43
+      }
+    ],
+    "10": [
+      {
+        "image": "0010-00.png",
+        "xoffset": -20,
+        "yoffset": -40
+      },
+      {
+        "image": "0010-01.png",
+        "xoffset": -18,
+        "yoffset": -36
+      }
+    ],
+    "20": [
+      {
+        "image": "0020-00.png",
+        "xoffset": -20,
+        "yoffset": -44
+      },
+      {
+        "image": "0020-01.png",
+        "xoffset": -19,
+        "yoffset": -44
+      },
+      {
+        "image": "0020-02.png",
+        "xoffset": -31,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-03.png",
+        "xoffset": -27,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-04.png",
+        "xoffset": -30,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-05.png",
+        "xoffset": -31,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-06.png",
+        "xoffset": -32,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-07.png",
+        "xoffset": -28,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-08.png",
+        "xoffset": -29,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-09.png",
+        "xoffset": -29,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-10.png",
+        "xoffset": -24,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-11.png",
+        "xoffset": -29,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-12.png",
+        "xoffset": -27,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-13.png",
+        "xoffset": -29,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-14.png",
+        "xoffset": -28,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-15.png",
+        "xoffset": -29,
+        "yoffset": -45
+      },
+      {
+        "image": "0020-16.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "0020-17.png",
+        "xoffset": -21,
+        "yoffset": -44
+      }
+    ],
+    "41": [
+      {
+        "image": "0041-00.png",
+        "xoffset": -20,
+        "yoffset": -44
+      },
+      {
+        "image": "0041-01.png",
+        "xoffset": -24,
+        "yoffset": -47
+      },
+      {
+        "image": "0041-02.png",
+        "xoffset": -25,
+        "yoffset": -47
+      },
+      {
+        "image": "0041-03.png",
+        "xoffset": -23,
+        "yoffset": -50
+      },
+      {
+        "image": "0041-04.png",
+        "xoffset": -26,
+        "yoffset": -51
+      },
+      {
+        "image": "0041-05.png",
+        "xoffset": -26,
+        "yoffset": -61
+      },
+      {
+        "image": "0041-06.png",
+        "xoffset": -20,
+        "yoffset": -71
+      },
+      {
+        "image": "0041-07.png",
+        "xoffset": -20,
+        "yoffset": -72
+      },
+      {
+        "image": "0041-08.png",
+        "xoffset": -21,
+        "yoffset": -72
+      },
+      {
+        "image": "0041-09.png",
+        "xoffset": -21,
+        "yoffset": -71
+      },
+      {
+        "image": "0041-10.png",
+        "xoffset": -22,
+        "yoffset": -58
+      },
+      {
+        "image": "0041-11.png",
+        "xoffset": -22,
+        "yoffset": -41
+      }
+    ],
+    "50": [
+      {
+        "image": "0050-00.png",
+        "xoffset": -29,
+        "yoffset": -44
+      },
+      {
+        "image": "0050-01.png",
+        "xoffset": -22,
+        "yoffset": -43
+      },
+      {
+        "image": "0050-02.png",
+        "xoffset": -23,
+        "yoffset": -41
+      },
+      {
+        "image": "0050-03.png",
+        "xoffset": -17,
+        "yoffset": -39
+      },
+      {
+        "image": "0050-04.png",
+        "xoffset": -24,
+        "yoffset": -40
+      },
+      {
+        "image": "0050-05.png",
+        "xoffset": -17,
+        "yoffset": -40
+      }
+    ],
+    "100": [
+      {
+        "image": "0100-00.png",
+        "xoffset": -18,
+        "yoffset": -42
+      },
+      {
+        "image": "0100-01.png",
+        "xoffset": -20,
+        "yoffset": -39
+      },
+      {
+        "image": "0100-02.png",
+        "xoffset": -17,
+        "yoffset": -33
+      },
+      {
+        "image": "0100-03.png",
+        "xoffset": -17,
+        "yoffset": -33
+      },
+      {
+        "image": "0100-04.png",
+        "xoffset": -17,
+        "yoffset": -33
+      },
+      {
+        "image": "0100-05.png",
+        "xoffset": -17,
+        "yoffset": -33
+      },
+      {
+        "image": "0100-06.png",
+        "xoffset": -21,
+        "yoffset": -43
+      },
+      {
+        "image": "0100-07.png",
+        "xoffset": -18,
+        "yoffset": -44
+      },
+      {
+        "image": "0100-08.png",
+        "xoffset": -19,
+        "yoffset": -42
+      },
+      {
+        "image": "0100-09.png",
+        "xoffset": -19,
+        "yoffset": -42
+      }
+    ],
+    "101": [
+      {
+        "image": "0101-00.png",
+        "xoffset": -16,
+        "yoffset": -9
+      },
+      {
+        "image": "0101-01.png",
+        "xoffset": -39,
+        "yoffset": -15
+      },
+      {
+        "image": "0101-02.png",
+        "xoffset": -42,
+        "yoffset": -15
+      },
+      {
+        "image": "0101-03.png",
+        "xoffset": -37,
+        "yoffset": -12
+      },
+      {
+        "image": "0101-04.png",
+        "xoffset": -33,
+        "yoffset": -13
+      },
+      {
+        "image": "0101-05.png",
+        "xoffset": -23,
+        "yoffset": -14
+      },
+      {
+        "image": "0101-06.png",
+        "xoffset": -16,
+        "yoffset": -1
+      }
+    ],
+    "180": [
+      {
+        "image": "0180-00.png",
+        "xoffset": -16,
+        "yoffset": -50
+      },
+      {
+        "image": "0180-01.png",
+        "xoffset": -11,
+        "yoffset": -50
+      },
+      {
+        "image": "0180-02.png",
+        "xoffset": -16,
+        "yoffset": -50
+      },
+      {
+        "image": "0180-03.png",
+        "xoffset": -16,
+        "yoffset": -50
+      },
+      {
+        "image": "0180-04.png",
+        "xoffset": -16,
+        "yoffset": -50
+      },
+      {
+        "image": "0180-05.png",
+        "xoffset": -18,
+        "yoffset": -52
+      },
+      {
+        "image": "0180-06.png",
+        "xoffset": -17,
+        "yoffset": -54
+      },
+      {
+        "image": "0180-07.png",
+        "xoffset": -22,
+        "yoffset": -62
+      },
+      {
+        "image": "0180-08.png",
+        "xoffset": -25,
+        "yoffset": -68
+      },
+      {
+        "image": "0180-09.png",
+        "xoffset": -31,
+        "yoffset": -77
+      },
+      {
+        "image": "0180-10.png",
+        "xoffset": -5,
+        "yoffset": -80
+      }
+    ],
+    "181": [
+      {
+        "image": "0181-00.png",
+        "xoffset": -15,
+        "yoffset": -51
+      },
+      {
+        "image": "0181-01.png",
+        "xoffset": -17,
+        "yoffset": -51
+      },
+      {
+        "image": "0181-02.png",
+        "xoffset": -16,
+        "yoffset": -51
+      }
+    ],
+    "190": [
+      {
+        "image": "0190-00.png",
+        "xoffset": -2,
+        "yoffset": -78
+      },
+      {
+        "image": "0190-01.png",
+        "xoffset": -2,
+        "yoffset": -78
+      },
+      {
+        "image": "0190-02.png",
+        "xoffset": -7,
+        "yoffset": -55
+      },
+      {
+        "image": "0190-03.png",
+        "xoffset": -15,
+        "yoffset": -21
+      },
+      {
+        "image": "0190-04.png",
+        "xoffset": -30,
+        "yoffset": -51
+      },
+      {
+        "image": "0190-05.png",
+        "xoffset": -29,
+        "yoffset": -51
+      },
+      {
+        "image": "0190-06.png",
+        "xoffset": -19,
+        "yoffset": -58
+      },
+      {
+        "image": "0190-07.png",
+        "xoffset": -12,
+        "yoffset": -57
+      },
+      {
+        "image": "0190-08.png",
+        "xoffset": -16,
+        "yoffset": -54
+      },
+      {
+        "image": "0190-09.png",
+        "xoffset": -15,
+        "yoffset": -52
+      },
+      {
+        "image": "0190-10.png",
+        "xoffset": -15,
+        "yoffset": -51
+      },
+      {
+        "image": "0190-11.png",
+        "xoffset": -15,
+        "yoffset": -51
+      },
+      {
+        "image": "0190-12.png",
+        "xoffset": -15,
+        "yoffset": -51
+      },
+      {
+        "image": "0190-13.png",
+        "xoffset": -16,
+        "yoffset": -50
+      },
+      {
+        "image": "0190-14.png",
+        "xoffset": -19,
+        "yoffset": -47
+      }
+    ],
+    "200": [
+      {
+        "image": "0200-00.png",
+        "xoffset": -18,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-01.png",
+        "xoffset": -32,
+        "yoffset": -44
+      },
+      {
+        "image": "0200-02.png",
+        "xoffset": -31,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-03.png",
+        "xoffset": -27,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-04.png",
+        "xoffset": -23,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-05.png",
+        "xoffset": -23,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-06.png",
+        "xoffset": -23,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-07.png",
+        "xoffset": -23,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-08.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "0200-09.png",
+        "xoffset": -19,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-10.png",
+        "xoffset": -18,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-11.png",
+        "xoffset": -18,
+        "yoffset": -43
+      },
+      {
+        "image": "0200-12.png",
+        "xoffset": -24,
+        "yoffset": -44
+      },
+      {
+        "image": "0200-13.png",
+        "xoffset": -25,
+        "yoffset": -44
+      }
+    ],
+    "210": [
+      {
+        "image": "0210-00.png",
+        "xoffset": -23,
+        "yoffset": -54
+      },
+      {
+        "image": "0210-01.png",
+        "xoffset": -23,
+        "yoffset": -54
+      },
+      {
+        "image": "0210-02.png",
+        "xoffset": -23,
+        "yoffset": -54
+      },
+      {
+        "image": "0210-03.png",
+        "xoffset": -41,
+        "yoffset": -54
+      },
+      {
+        "image": "0210-04.png",
+        "xoffset": -41,
+        "yoffset": -42
+      },
+      {
+        "image": "0210-05.png",
+        "xoffset": -41,
+        "yoffset": -42
+      },
+      {
+        "image": "0210-06.png",
+        "xoffset": -41,
+        "yoffset": -42
+      }
+    ],
+    "220": [
+      {
+        "image": "0220-00.png",
+        "xoffset": -27,
+        "yoffset": -41
+      },
+      {
+        "image": "0220-01.png",
+        "xoffset": -26,
+        "yoffset": -44
+      },
+      {
+        "image": "0220-02.png",
+        "xoffset": -23,
+        "yoffset": -80
+      },
+      {
+        "image": "0220-03.png",
+        "xoffset": -19,
+        "yoffset": -83
+      },
+      {
+        "image": "0220-04.png",
+        "xoffset": -22,
+        "yoffset": -83
+      },
+      {
+        "image": "0220-05.png",
+        "xoffset": -22,
+        "yoffset": -83
+      },
+      {
+        "image": "0220-06.png",
+        "xoffset": -20,
+        "yoffset": -82
+      }
+    ],
+    "300": [
+      {
+        "image": "0300-00.png",
+        "xoffset": -22,
+        "yoffset": -45
+      },
+      {
+        "image": "0300-01.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "0300-02.png",
+        "xoffset": -22,
+        "yoffset": -43
+      },
+      {
+        "image": "0300-03.png",
+        "xoffset": -22,
+        "yoffset": -43
+      },
+      {
+        "image": "0300-04.png",
+        "xoffset": -22,
+        "yoffset": -43
+      },
+      {
+        "image": "0300-05.png",
+        "xoffset": -22,
+        "yoffset": -45
+      },
+      {
+        "image": "0300-06.png",
+        "xoffset": -22,
+        "yoffset": -46
+      },
+      {
+        "image": "0300-07.png",
+        "xoffset": -22,
+        "yoffset": -43
+      },
+      {
+        "image": "0300-08.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "0300-09.png",
+        "xoffset": -22,
+        "yoffset": -44
+      }
+    ],
+    "301": [
+      {
+        "image": "0301-00.png",
+        "xoffset": -23,
+        "yoffset": -14
+      },
+      {
+        "image": "0301-01.png",
+        "xoffset": -22,
+        "yoffset": -14
+      },
+      {
+        "image": "0301-02.png",
+        "xoffset": -21,
+        "yoffset": -13
+      },
+      {
+        "image": "0301-03.png",
+        "xoffset": -19,
+        "yoffset": -15
+      },
+      {
+        "image": "0301-04.png",
+        "xoffset": -21,
+        "yoffset": -16
+      },
+      {
+        "image": "0301-05.png",
+        "xoffset": -17,
+        "yoffset": -16
+      },
+      {
+        "image": "0301-06.png",
+        "xoffset": -13,
+        "yoffset": -15
+      },
+      {
+        "image": "0301-07.png",
+        "xoffset": -7,
+        "yoffset": -3
+      }
+    ],
+    "400": [
+      {
+        "image": "0400-00.png",
+        "xoffset": -18,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-01.png",
+        "xoffset": -18,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-02.png",
+        "xoffset": -35,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-03.png",
+        "xoffset": -39,
+        "yoffset": -35
+      },
+      {
+        "image": "0400-04.png",
+        "xoffset": -37,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-05.png",
+        "xoffset": -32,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-06.png",
+        "xoffset": -26,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-07.png",
+        "xoffset": -26,
+        "yoffset": -36
+      },
+      {
+        "image": "0400-08.png",
+        "xoffset": -26,
+        "yoffset": -36
+      }
+    ],
+    "600": [
+      {
+        "image": "0600-00.png",
+        "xoffset": -31,
+        "yoffset": -50
+      },
+      {
+        "image": "0600-01.png",
+        "xoffset": -31,
+        "yoffset": -66
+      },
+      {
+        "image": "0600-02.png",
+        "xoffset": -29,
+        "yoffset": -70
+      },
+      {
+        "image": "0600-03.png",
+        "xoffset": -24,
+        "yoffset": -70
+      },
+      {
+        "image": "0600-04.png",
+        "xoffset": -24,
+        "yoffset": -70
+      },
+      {
+        "image": "0600-05.png",
+        "xoffset": -24,
+        "yoffset": -58
+      },
+      {
+        "image": "0600-06.png",
+        "xoffset": -24,
+        "yoffset": -58
+      },
+      {
+        "image": "0600-07.png",
+        "xoffset": -24,
+        "yoffset": -58
+      },
+      {
+        "image": "0600-08.png",
+        "xoffset": -17,
+        "yoffset": -60
+      },
+      {
+        "image": "0600-09.png",
+        "xoffset": -17,
+        "yoffset": -60
+      }
+    ],
+    "610": [
+      {
+        "image": "0610-00.png",
+        "xoffset": -28,
+        "yoffset": -49
+      },
+      {
+        "image": "0610-01.png",
+        "xoffset": -28,
+        "yoffset": -61
+      },
+      {
+        "image": "0610-02.png",
+        "xoffset": -28,
+        "yoffset": -63
+      },
+      {
+        "image": "0610-03.png",
+        "xoffset": -26,
+        "yoffset": -63
+      },
+      {
+        "image": "0610-04.png",
+        "xoffset": -26,
+        "yoffset": -63
+      },
+      {
+        "image": "0610-05.png",
+        "xoffset": -26,
+        "yoffset": -44
+      },
+      {
+        "image": "0610-06.png",
+        "xoffset": -26,
+        "yoffset": -35
+      },
+      {
+        "image": "0610-07.png",
+        "xoffset": -26,
+        "yoffset": -35
+      }
+    ],
+    "620": [
+      {
+        "image": "0620-00.png",
+        "xoffset": -24,
+        "yoffset": -76
+      },
+      {
+        "image": "0620-01.png",
+        "xoffset": -25,
+        "yoffset": -67
+      },
+      {
+        "image": "0620-02.png",
+        "xoffset": -20,
+        "yoffset": -50
+      },
+      {
+        "image": "0620-03.png",
+        "xoffset": -26,
+        "yoffset": -48
+      },
+      {
+        "image": "0620-04.png",
+        "xoffset": -23,
+        "yoffset": -49
+      }
+    ],
+    "630": [
+      {
+        "image": "0630-00.png",
+        "xoffset": -17,
+        "yoffset": -38
+      },
+      {
+        "image": "0630-01.png",
+        "xoffset": -15,
+        "yoffset": -35
+      },
+      {
+        "image": "0630-02.png",
+        "xoffset": -15,
+        "yoffset": -37
+      },
+      {
+        "image": "0630-03.png",
+        "xoffset": -15,
+        "yoffset": -41
+      },
+      {
+        "image": "0630-04.png",
+        "xoffset": -17,
+        "yoffset": -39
+      },
+      {
+        "image": "0630-05.png",
+        "xoffset": -18,
+        "yoffset": -42
+      }
+    ],
+    "640": [
+      {
+        "image": "0640-00.png",
+        "xoffset": -15,
+        "yoffset": -41
+      },
+      {
+        "image": "0640-01.png",
+        "xoffset": -15,
+        "yoffset": -42
+      },
+      {
+        "image": "0640-02.png",
+        "xoffset": -15,
+        "yoffset": -47
+      },
+      {
+        "image": "0640-03.png",
+        "xoffset": -15,
+        "yoffset": -46
+      },
+      {
+        "image": "0640-04.png",
+        "xoffset": -15,
+        "yoffset": -46
+      },
+      {
+        "image": "0640-05.png",
+        "xoffset": -15,
+        "yoffset": -41
+      },
+      {
+        "image": "0640-06.png",
+        "xoffset": -15,
+        "yoffset": -41
+      },
+      {
+        "image": "0640-07.png",
+        "xoffset": -15,
+        "yoffset": -41
+      }
+    ],
+    "1000": [
+      {
+        "image": "1000-00.png",
+        "xoffset": -7,
+        "yoffset": -6
+      },
+      {
+        "image": "1000-01.png",
+        "xoffset": -6,
+        "yoffset": -7
+      },
+      {
+        "image": "1000-02.png",
+        "xoffset": -7,
+        "yoffset": -6
+      },
+      {
+        "image": "1000-03.png",
+        "xoffset": -6,
+        "yoffset": -7
+      },
+      {
+        "image": "1000-04.png",
+        "xoffset": -6,
+        "yoffset": -14
+      },
+      {
+        "image": "1000-05.png",
+        "xoffset": -6,
+        "yoffset": -14
+      },
+      {
+        "image": "1000-06.png",
+        "xoffset": -10,
+        "yoffset": -21
+      },
+      {
+        "image": "1000-07.png",
+        "xoffset": -10,
+        "yoffset": -21
+      },
+      {
+        "image": "1000-08.png",
+        "xoffset": -10,
+        "yoffset": -21
+      },
+      {
+        "image": "1000-09.png",
+        "xoffset": -10,
+        "yoffset": -21
+      }
+    ],
+    "1100": [
+      {
+        "image": "1100-00.png",
+        "xoffset": -16,
+        "yoffset": -42
+      },
+      {
+        "image": "1100-01.png",
+        "xoffset": -14,
+        "yoffset": -55
+      },
+      {
+        "image": "1100-02.png",
+        "xoffset": -14,
+        "yoffset": -59
+      },
+      {
+        "image": "1100-03.png",
+        "xoffset": -20,
+        "yoffset": -55
+      },
+      {
+        "image": "1100-04.png",
+        "xoffset": -20,
+        "yoffset": -53
+      },
+      {
+        "image": "1100-05.png",
+        "xoffset": -26,
+        "yoffset": -65
+      },
+      {
+        "image": "1100-06.png",
+        "xoffset": -26,
+        "yoffset": -64
+      },
+      {
+        "image": "1100-07.png",
+        "xoffset": -26,
+        "yoffset": -64
+      },
+      {
+        "image": "1100-08.png",
+        "xoffset": -26,
+        "yoffset": -59
+      },
+      {
+        "image": "1100-09.png",
+        "xoffset": -26,
+        "yoffset": -50
+      },
+      {
+        "image": "1100-10.png",
+        "xoffset": -21,
+        "yoffset": -35
+      },
+      {
+        "image": "1100-11.png",
+        "xoffset": -19,
+        "yoffset": -40
+      }
+    ],
+    "1200": [
+      {
+        "image": "1200-00.png",
+        "xoffset": -28,
+        "yoffset": -32
+      },
+      {
+        "image": "1200-01.png",
+        "xoffset": -25,
+        "yoffset": -36
+      },
+      {
+        "image": "1200-02.png",
+        "xoffset": -28,
+        "yoffset": -29
+      },
+      {
+        "image": "1200-03.png",
+        "xoffset": -23,
+        "yoffset": -36
+      },
+      {
+        "image": "1200-04.png",
+        "xoffset": -20,
+        "yoffset": -38
+      },
+      {
+        "image": "1200-05.png",
+        "xoffset": -30,
+        "yoffset": -38
+      },
+      {
+        "image": "1200-06.png",
+        "xoffset": -39,
+        "yoffset": -42
+      },
+      {
+        "image": "1200-07.png",
+        "xoffset": -39,
+        "yoffset": -42
+      },
+      {
+        "image": "1200-08.png",
+        "xoffset": -38,
+        "yoffset": -42
+      }
+    ],
+    "1300": [
+      {
+        "image": "1300-00.png",
+        "xoffset": -37,
+        "yoffset": -47
+      },
+      {
+        "image": "1300-01.png",
+        "xoffset": -31,
+        "yoffset": -61
+      },
+      {
+        "image": "1300-02.png",
+        "xoffset": -22,
+        "yoffset": -66
+      },
+      {
+        "image": "1300-03.png",
+        "xoffset": -22,
+        "yoffset": -67
+      },
+      {
+        "image": "1300-04.png",
+        "xoffset": -25,
+        "yoffset": -67
+      },
+      {
+        "image": "1300-05.png",
+        "xoffset": -28,
+        "yoffset": -56
+      },
+      {
+        "image": "1300-06.png",
+        "xoffset": -29,
+        "yoffset": -45
+      },
+      {
+        "image": "1300-07.png",
+        "xoffset": -29,
+        "yoffset": -38
+      },
+      {
+        "image": "1300-08.png",
+        "xoffset": -29,
+        "yoffset": -38
+      }
+    ],
+    "1310": [
+      {
+        "image": "1310-00.png",
+        "xoffset": -1,
+        "yoffset": -3
+      },
+      {
+        "image": "1310-01.png",
+        "xoffset": -4,
+        "yoffset": -4
+      },
+      {
+        "image": "1310-02.png",
+        "xoffset": -14,
+        "yoffset": -8
+      },
+      {
+        "image": "1310-03.png",
+        "xoffset": -15,
+        "yoffset": -15
+      },
+      {
+        "image": "1310-04.png",
+        "xoffset": -15,
+        "yoffset": -15
+      },
+      {
+        "image": "1310-05.png",
+        "xoffset": -15,
+        "yoffset": -15
+      }
+    ],
+    "1400": [
+      {
+        "image": "1400-00.png",
+        "xoffset": -27,
+        "yoffset": -41
+      },
+      {
+        "image": "1400-01.png",
+        "xoffset": -26,
+        "yoffset": -44
+      },
+      {
+        "image": "1400-02.png",
+        "xoffset": -23,
+        "yoffset": -80
+      },
+      {
+        "image": "1400-03.png",
+        "xoffset": -19,
+        "yoffset": -83
+      },
+      {
+        "image": "1400-04.png",
+        "xoffset": -22,
+        "yoffset": -83
+      },
+      {
+        "image": "1400-05.png",
+        "xoffset": -22,
+        "yoffset": -83
+      },
+      {
+        "image": "1400-06.png",
+        "xoffset": -20,
+        "yoffset": -82
+      },
+      {
+        "image": "1400-07.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "1400-08.png",
+        "xoffset": -19,
+        "yoffset": -43
+      }
+    ],
+    "1410": [
+      {
+        "image": "1410-00.png",
+        "xoffset": 0,
+        "yoffset": -45
+      },
+      {
+        "image": "1410-01.png",
+        "xoffset": 2,
+        "yoffset": -54
+      },
+      {
+        "image": "1410-02.png",
+        "xoffset": 5,
+        "yoffset": -116
+      },
+      {
+        "image": "1410-03.png",
+        "xoffset": 11,
+        "yoffset": -128
+      },
+      {
+        "image": "1410-04.png",
+        "xoffset": 13,
+        "yoffset": -137
+      },
+      {
+        "image": "1410-05.png",
+        "xoffset": 13,
+        "yoffset": -135
+      },
+      {
+        "image": "1410-06.png",
+        "xoffset": 21,
+        "yoffset": -135
+      },
+      {
+        "image": "1410-07.png",
+        "xoffset": 28,
+        "yoffset": -136
+      },
+      {
+        "image": "1410-08.png",
+        "xoffset": 29,
+        "yoffset": -123
+      },
+      {
+        "image": "1410-09.png",
+        "xoffset": 31,
+        "yoffset": -121
+      },
+      {
+        "image": "1410-10.png",
+        "xoffset": 44,
+        "yoffset": -121
+      }
+    ],
+    "1500": [
+      {
+        "image": "1500-00.png",
+        "xoffset": -21,
+        "yoffset": 0
+      },
+      {
+        "image": "1500-01.png",
+        "xoffset": -21,
+        "yoffset": 0
+      },
+      {
+        "image": "1500-02.png",
+        "xoffset": -26,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-03.png",
+        "xoffset": -16,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-04.png",
+        "xoffset": -16,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-05.png",
+        "xoffset": -16,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-06.png",
+        "xoffset": -16,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-07.png",
+        "xoffset": -34,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-08.png",
+        "xoffset": -53,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-09.png",
+        "xoffset": -53,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-10.png",
+        "xoffset": -53,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-11.png",
+        "xoffset": -52,
+        "yoffset": -1
+      },
+      {
+        "image": "1500-12.png",
+        "xoffset": -23,
+        "yoffset": -1
+      }
+    ],
+    "1510": [
+      {
+        "image": "1510-00.png",
+        "xoffset": -3,
+        "yoffset": -6
+      },
+      {
+        "image": "1510-01.png",
+        "xoffset": -6,
+        "yoffset": -8
+      },
+      {
+        "image": "1510-02.png",
+        "xoffset": -8,
+        "yoffset": -14
+      },
+      {
+        "image": "1510-03.png",
+        "xoffset": -10,
+        "yoffset": -19
+      }
+    ],
+    "1520": [
+      {
+        "image": "1520-00.png",
+        "xoffset": -11,
+        "yoffset": -7
+      },
+      {
+        "image": "1520-01.png",
+        "xoffset": -16,
+        "yoffset": -12
+      },
+      {
+        "image": "1520-02.png",
+        "xoffset": -18,
+        "yoffset": -9
+      },
+      {
+        "image": "1520-03.png",
+        "xoffset": -20,
+        "yoffset": -17
+      },
+      {
+        "image": "1520-04.png",
+        "xoffset": -37,
+        "yoffset": -32
+      },
+      {
+        "image": "1520-05.png",
+        "xoffset": -38,
+        "yoffset": -27
+      },
+      {
+        "image": "1520-06.png",
+        "xoffset": -48,
+        "yoffset": -33
+      },
+      {
+        "image": "1520-07.png",
+        "xoffset": -45,
+        "yoffset": -36
+      },
+      {
+        "image": "1520-08.png",
+        "xoffset": -63,
+        "yoffset": -39
+      }
+    ],
+    "1600": [
+      {
+        "image": "1600-00.png",
+        "xoffset": -9,
+        "yoffset": -8
+      },
+      {
+        "image": "1600-01.png",
+        "xoffset": -15,
+        "yoffset": -14
+      },
+      {
+        "image": "1600-02.png",
+        "xoffset": -21,
+        "yoffset": -27
+      },
+      {
+        "image": "1600-03.png",
+        "xoffset": -24,
+        "yoffset": -31
+      }
+    ],
+    "1700": [
+      {
+        "image": "1700-00.png",
+        "xoffset": -8,
+        "yoffset": -9
+      },
+      {
+        "image": "1700-01.png",
+        "xoffset": -14,
+        "yoffset": -12
+      },
+      {
+        "image": "1700-02.png",
+        "xoffset": -14,
+        "yoffset": -13
+      },
+      {
+        "image": "1700-03.png",
+        "xoffset": -17,
+        "yoffset": -15
+      },
+      {
+        "image": "1700-04.png",
+        "xoffset": -18,
+        "yoffset": -16
+      }
+    ],
+    "1800": [
+      {
+        "image": "1800-00.png",
+        "xoffset": -27,
+        "yoffset": -22
+      },
+      {
+        "image": "1800-01.png",
+        "xoffset": -26,
+        "yoffset": -22
+      },
+      {
+        "image": "1800-02.png",
+        "xoffset": -19,
+        "yoffset": -23
+      },
+      {
+        "image": "1800-03.png",
+        "xoffset": -18,
+        "yoffset": -24
+      }
+    ],
+    "1900": [
+      {
+        "image": "1900-00.png",
+        "xoffset": -5,
+        "yoffset": -5
+      },
+      {
+        "image": "1900-01.png",
+        "xoffset": -8,
+        "yoffset": -9
+      },
+      {
+        "image": "1900-02.png",
+        "xoffset": -14,
+        "yoffset": -14
+      },
+      {
+        "image": "1900-03.png",
+        "xoffset": -24,
+        "yoffset": -24
+      },
+      {
+        "image": "1900-04.png",
+        "xoffset": -24,
+        "yoffset": -24
+      },
+      {
+        "image": "1900-05.png",
+        "xoffset": -25,
+        "yoffset": -25
+      },
+      {
+        "image": "1900-06.png",
+        "xoffset": -30,
+        "yoffset": -30
+      },
+      {
+        "image": "1900-07.png",
+        "xoffset": -31,
+        "yoffset": -32
+      }
+    ],
+    "2000": [
+      {
+        "image": "2000-00.png",
+        "xoffset": -30,
+        "yoffset": -29
+      },
+      {
+        "image": "2000-01.png",
+        "xoffset": -33,
+        "yoffset": -30
+      },
+      {
+        "image": "2000-02.png",
+        "xoffset": -36,
+        "yoffset": -32
+      }
+    ],
+    "2100": [
+      {
+        "image": "2100-00.png",
+        "xoffset": -12,
+        "yoffset": -23
+      },
+      {
+        "image": "2100-01.png",
+        "xoffset": -16,
+        "yoffset": -37
+      },
+      {
+        "image": "2100-02.png",
+        "xoffset": -2,
+        "yoffset": -44
+      }
+    ],
+    "2200": [
+      {
+        "image": "2200-00.png",
+        "xoffset": -10,
+        "yoffset": -12
+      },
+      {
+        "image": "2200-01.png",
+        "xoffset": -10,
+        "yoffset": -13
+      },
+      {
+        "image": "2200-02.png",
+        "xoffset": -12,
+        "yoffset": -14
+      },
+      {
+        "image": "2200-03.png",
+        "xoffset": -12,
+        "yoffset": -14
+      },
+      {
+        "image": "2200-04.png",
+        "xoffset": -14,
+        "yoffset": -16
+      },
+      {
+        "image": "2200-05.png",
+        "xoffset": -17,
+        "yoffset": -20
+      },
+      {
+        "image": "2200-06.png",
+        "xoffset": -19,
+        "yoffset": -22
+      },
+      {
+        "image": "2200-07.png",
+        "xoffset": -20,
+        "yoffset": -22
+      },
+      {
+        "image": "2200-08.png",
+        "xoffset": -19,
+        "yoffset": -22
+      },
+      {
+        "image": "2200-09.png",
+        "xoffset": -19,
+        "yoffset": -22
+      }
+    ],
+    "2300": [
+      {
+        "image": "2300-00.png",
+        "xoffset": -20,
+        "yoffset": -29
+      },
+      {
+        "image": "2300-01.png",
+        "xoffset": -54,
+        "yoffset": -74
+      },
+      {
+        "image": "2300-02.png",
+        "xoffset": -56,
+        "yoffset": -79
+      },
+      {
+        "image": "2300-03.png",
+        "xoffset": -57,
+        "yoffset": -79
+      },
+      {
+        "image": "2300-04.png",
+        "xoffset": -60,
+        "yoffset": -79
+      },
+      {
+        "image": "2300-05.png",
+        "xoffset": -63,
+        "yoffset": -80
+      },
+      {
+        "image": "2300-06.png",
+        "xoffset": -54,
+        "yoffset": -82
+      },
+      {
+        "image": "2300-07.png",
+        "xoffset": -48,
+        "yoffset": -82
+      },
+      {
+        "image": "2300-08.png",
+        "xoffset": -49,
+        "yoffset": -82
+      },
+      {
+        "image": "2300-09.png",
+        "xoffset": -47,
+        "yoffset": -81
+      }
+    ],
+    "2400": [
+      {
+        "image": "2400-00.png",
+        "xoffset": -16,
+        "yoffset": -17
+      },
+      {
+        "image": "2400-01.png",
+        "xoffset": -26,
+        "yoffset": -29
+      },
+      {
+        "image": "2400-02.png",
+        "xoffset": -36,
+        "yoffset": -41
+      },
+      {
+        "image": "2400-03.png",
+        "xoffset": -42,
+        "yoffset": -46
+      },
+      {
+        "image": "2400-04.png",
+        "xoffset": -54,
+        "yoffset": -60
+      },
+      {
+        "image": "2400-05.png",
+        "xoffset": -60,
+        "yoffset": -66
+      },
+      {
+        "image": "2400-06.png",
+        "xoffset": -65,
+        "yoffset": -67
+      },
+      {
+        "image": "2400-07.png",
+        "xoffset": -66,
+        "yoffset": -66
+      },
+      {
+        "image": "2400-08.png",
+        "xoffset": -67,
+        "yoffset": -65
+      }
+    ],
+    "2500": [
+      {
+        "image": "2500-00.png",
+        "xoffset": -4,
+        "yoffset": -5
+      },
+      {
+        "image": "2500-01.png",
+        "xoffset": -7,
+        "yoffset": -6
+      },
+      {
+        "image": "2500-02.png",
+        "xoffset": -9,
+        "yoffset": -9
+      },
+      {
+        "image": "2500-03.png",
+        "xoffset": -10,
+        "yoffset": -11
+      },
+      {
+        "image": "2500-04.png",
+        "xoffset": -10,
+        "yoffset": -11
+      },
+      {
+        "image": "2500-05.png",
+        "xoffset": -9,
+        "yoffset": -10
+      }
+    ],
+    "2600": [
+      {
+        "image": "2600-00.png",
+        "xoffset": -54,
+        "yoffset": -15
+      },
+      {
+        "image": "2600-01.png",
+        "xoffset": -54,
+        "yoffset": -15
+      },
+      {
+        "image": "2600-02.png",
+        "xoffset": -54,
+        "yoffset": -15
+      },
+      {
+        "image": "2600-03.png",
+        "xoffset": -54,
+        "yoffset": -15
+      },
+      {
+        "image": "2600-04.png",
+        "xoffset": -54,
+        "yoffset": -15
+      }
+    ],
+    "2700": [
+      {
+        "image": "2700-00.png",
+        "xoffset": -36,
+        "yoffset": -36
+      }
+    ],
+    "2800": [
+      {
+        "image": "2800-00.png",
+        "xoffset": -8,
+        "yoffset": -38
+      },
+      {
+        "image": "2800-01.png",
+        "xoffset": -14,
+        "yoffset": -97
+      },
+      {
+        "image": "2800-02.png",
+        "xoffset": -15,
+        "yoffset": -167
+      },
+      {
+        "image": "2800-03.png",
+        "xoffset": -15,
+        "yoffset": -193
+      },
+      {
+        "image": "2800-04.png",
+        "xoffset": -15,
+        "yoffset": -198
+      },
+      {
+        "image": "2800-05.png",
+        "xoffset": -12,
+        "yoffset": -194
+      },
+      {
+        "image": "2800-06.png",
+        "xoffset": -10,
+        "yoffset": -183
+      },
+      {
+        "image": "2800-07.png",
+        "xoffset": -7,
+        "yoffset": -182
+      },
+      {
+        "image": "2800-08.png",
+        "xoffset": -8,
+        "yoffset": -182
+      }
+    ],
+    "2900": [
+      {
+        "image": "2900-00.png",
+        "xoffset": -27,
+        "yoffset": 0
+      },
+      {
+        "image": "2900-01.png",
+        "xoffset": -20,
+        "yoffset": 0
+      },
+      {
+        "image": "2900-02.png",
+        "xoffset": -13,
+        "yoffset": 0
+      },
+      {
+        "image": "2900-03.png",
+        "xoffset": -10,
+        "yoffset": 0
+      },
+      {
+        "image": "2900-04.png",
+        "xoffset": -9,
+        "yoffset": 0
+      },
+      {
+        "image": "2900-05.png",
+        "xoffset": -8,
+        "yoffset": 0
+      }
+    ],
+    "2910": [
+      {
+        "image": "2910-00.png",
+        "xoffset": -29,
+        "yoffset": -227
+      },
+      {
+        "image": "2910-01.png",
+        "xoffset": -29,
+        "yoffset": -227
+      },
+      {
+        "image": "2910-02.png",
+        "xoffset": -32,
+        "yoffset": -228
+      },
+      {
+        "image": "2910-03.png",
+        "xoffset": -32,
+        "yoffset": -228
+      },
+      {
+        "image": "2910-04.png",
+        "xoffset": -31,
+        "yoffset": -164
+      },
+      {
+        "image": "2910-05.png",
+        "xoffset": -31,
+        "yoffset": -164
+      },
+      {
+        "image": "2910-06.png",
+        "xoffset": -31,
+        "yoffset": -85
+      },
+      {
+        "image": "2910-07.png",
+        "xoffset": -31,
+        "yoffset": -85
+      }
+    ],
+    "3000": [
+      {
+        "image": "3000-00.png",
+        "xoffset": -3,
+        "yoffset": -3
+      },
+      {
+        "image": "3000-01.png",
+        "xoffset": -7,
+        "yoffset": -7
+      },
+      {
+        "image": "3000-02.png",
+        "xoffset": -9,
+        "yoffset": -10
+      },
+      {
+        "image": "3000-03.png",
+        "xoffset": -11,
+        "yoffset": -10
+      }
+    ],
+    "3010": [
+      {
+        "image": "3010-00.png",
+        "xoffset": -9,
+        "yoffset": -8
+      },
+      {
+        "image": "3010-01.png",
+        "xoffset": -11,
+        "yoffset": -10
+      },
+      {
+        "image": "3010-02.png",
+        "xoffset": -13,
+        "yoffset": -13
+      },
+      {
+        "image": "3010-03.png",
+        "xoffset": -14,
+        "yoffset": -14
+      },
+      {
+        "image": "3010-04.png",
+        "xoffset": -15,
+        "yoffset": -15
+      }
+    ],
+    "3100": [
+      {
+        "image": "3100-00.png",
+        "xoffset": 9,
+        "yoffset": 24
+      },
+      {
+        "image": "3100-01.png",
+        "xoffset": 27,
+        "yoffset": -84
+      },
+      {
+        "image": "3100-02.png",
+        "xoffset": -63,
+        "yoffset": -85
+      },
+      {
+        "image": "3100-03.png",
+        "xoffset": -65,
+        "yoffset": -61
+      },
+      {
+        "image": "3100-04.png",
+        "xoffset": -65,
+        "yoffset": -40
+      },
+      {
+        "image": "3100-05.png",
+        "xoffset": -57,
+        "yoffset": 3
+      },
+      {
+        "image": "3100-06.png",
+        "xoffset": -43,
+        "yoffset": -38
+      },
+      {
+        "image": "3100-07.png",
+        "xoffset": -33,
+        "yoffset": -67
+      },
+      {
+        "image": "3100-08.png",
+        "xoffset": -21,
+        "yoffset": -86
+      },
+      {
+        "image": "3100-09.png",
+        "xoffset": -29,
+        "yoffset": -86
+      },
+      {
+        "image": "3100-10.png",
+        "xoffset": -45,
+        "yoffset": -86
+      },
+      {
+        "image": "3100-11.png",
+        "xoffset": -65,
+        "yoffset": -85
+      }
+    ],
+    "3200": [
+      {
+        "image": "3200-00.png",
+        "xoffset": -15,
+        "yoffset": -14
+      },
+      {
+        "image": "3200-01.png",
+        "xoffset": -15,
+        "yoffset": -15
+      },
+      {
+        "image": "3200-02.png",
+        "xoffset": -12,
+        "yoffset": -15
+      },
+      {
+        "image": "3200-03.png",
+        "xoffset": -14,
+        "yoffset": -15
+      }
+    ],
+    "3300": [
+      {
+        "image": "3300-00.png",
+        "xoffset": -44,
+        "yoffset": -46
+      },
+      {
+        "image": "3300-01.png",
+        "xoffset": -44,
+        "yoffset": -46
+      },
+      {
+        "image": "3300-02.png",
+        "xoffset": -44,
+        "yoffset": -46
+      },
+      {
+        "image": "3300-03.png",
+        "xoffset": -31,
+        "yoffset": -23
+      },
+      {
+        "image": "3300-04.png",
+        "xoffset": -29,
+        "yoffset": 0
+      }
+    ],
+    "3400": [
+      {
+        "image": "3400-00.png",
+        "xoffset": -7,
+        "yoffset": -7
+      },
+      {
+        "image": "3400-01.png",
+        "xoffset": -7,
+        "yoffset": -6
+      }
+    ],
+    "3500": [
+      {
+        "image": "3500-00.png",
+        "xoffset": -8,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-01.png",
+        "xoffset": -9,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-02.png",
+        "xoffset": -8,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-03.png",
+        "xoffset": -8,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-04.png",
+        "xoffset": -8,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-05.png",
+        "xoffset": -8,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-06.png",
+        "xoffset": -7,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-07.png",
+        "xoffset": -7,
+        "yoffset": -21
+      },
+      {
+        "image": "3500-08.png",
+        "xoffset": -8,
+        "yoffset": -23
+      },
+      {
+        "image": "3500-09.png",
+        "xoffset": -9,
+        "yoffset": -24
+      },
+      {
+        "image": "3500-10.png",
+        "xoffset": -9,
+        "yoffset": -25
+      },
+      {
+        "image": "3500-11.png",
+        "xoffset": -7,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-12.png",
+        "xoffset": -6,
+        "yoffset": -19
+      },
+      {
+        "image": "3500-13.png",
+        "xoffset": -6,
+        "yoffset": -19
+      }
+    ],
+    "3600": [
+      {
+        "image": "3600-00.png",
+        "xoffset": -18,
+        "yoffset": -31
+      },
+      {
+        "image": "3600-01.png",
+        "xoffset": -18,
+        "yoffset": -31
+      },
+      {
+        "image": "3600-02.png",
+        "xoffset": -4,
+        "yoffset": -23
+      },
+      {
+        "image": "3600-03.png",
+        "xoffset": 1,
+        "yoffset": -15
+      },
+      {
+        "image": "3600-04.png",
+        "xoffset": 5,
+        "yoffset": -6
+      }
+    ],
+    "3700": [
+      {
+        "image": "3700-00.png",
+        "xoffset": -34,
+        "yoffset": -22
+      },
+      {
+        "image": "3700-01.png",
+        "xoffset": -57,
+        "yoffset": -31
+      },
+      {
+        "image": "3700-02.png",
+        "xoffset": -59,
+        "yoffset": -35
+      },
+      {
+        "image": "3700-03.png",
+        "xoffset": -57,
+        "yoffset": -35
+      },
+      {
+        "image": "3700-04.png",
+        "xoffset": -58,
+        "yoffset": -35
+      },
+      {
+        "image": "3700-05.png",
+        "xoffset": -57,
+        "yoffset": -34
+      },
+      {
+        "image": "3700-06.png",
+        "xoffset": -57,
+        "yoffset": -34
+      },
+      {
+        "image": "3700-07.png",
+        "xoffset": -53,
+        "yoffset": -35
+      }
+    ],
+    "3800": [
+      {
+        "image": "3800-00.png",
+        "xoffset": -5,
+        "yoffset": -16
+      },
+      {
+        "image": "3800-01.png",
+        "xoffset": -5,
+        "yoffset": -34
+      },
+      {
+        "image": "3800-02.png",
+        "xoffset": -4,
+        "yoffset": -36
+      },
+      {
+        "image": "3800-03.png",
+        "xoffset": -4,
+        "yoffset": -34
+      },
+      {
+        "image": "3800-04.png",
+        "xoffset": -5,
+        "yoffset": -31
+      },
+      {
+        "image": "3800-05.png",
+        "xoffset": -2,
+        "yoffset": -32
+      },
+      {
+        "image": "3800-06.png",
+        "xoffset": 1,
+        "yoffset": -33
+      }
+    ],
+    "3900": [
+      {
+        "image": "3900-00.png",
+        "xoffset": -32,
+        "yoffset": -30
+      },
+      {
+        "image": "3900-01.png",
+        "xoffset": -31,
+        "yoffset": -30
+      },
+      {
+        "image": "3900-02.png",
+        "xoffset": -27,
+        "yoffset": -20
+      },
+      {
+        "image": "3900-03.png",
+        "xoffset": -28,
+        "yoffset": -21
+      },
+      {
+        "image": "3900-04.png",
+        "xoffset": -28,
+        "yoffset": -21
+      },
+      {
+        "image": "3900-05.png",
+        "xoffset": -28,
+        "yoffset": -23
+      },
+      {
+        "image": "3900-06.png",
+        "xoffset": -27,
+        "yoffset": -23
+      },
+      {
+        "image": "3900-07.png",
+        "xoffset": -26,
+        "yoffset": -24
+      },
+      {
+        "image": "3900-08.png",
+        "xoffset": -20,
+        "yoffset": -23
+      },
+      {
+        "image": "3900-09.png",
+        "xoffset": -19,
+        "yoffset": -25
+      },
+      {
+        "image": "3900-10.png",
+        "xoffset": -18,
+        "yoffset": -24
+      },
+      {
+        "image": "3900-11.png",
+        "xoffset": -16,
+        "yoffset": -24
+      },
+      {
+        "image": "3900-12.png",
+        "xoffset": -14,
+        "yoffset": -23
+      },
+      {
+        "image": "3900-13.png",
+        "xoffset": -13,
+        "yoffset": -25
+      },
+      {
+        "image": "3900-14.png",
+        "xoffset": -12,
+        "yoffset": -23
+      },
+      {
+        "image": "3900-15.png",
+        "xoffset": -9,
+        "yoffset": -24
+      }
+    ],
+    "4000": [
+      {
+        "image": "4000-00.png",
+        "xoffset": 39,
+        "yoffset": -20
+      },
+      {
+        "image": "4000-01.png",
+        "xoffset": 13,
+        "yoffset": -38
+      },
+      {
+        "image": "4000-02.png",
+        "xoffset": -33,
+        "yoffset": -58
+      },
+      {
+        "image": "4000-03.png",
+        "xoffset": -37,
+        "yoffset": -60
+      },
+      {
+        "image": "4000-04.png",
+        "xoffset": -39,
+        "yoffset": -60
+      },
+      {
+        "image": "4000-05.png",
+        "xoffset": -39,
+        "yoffset": -60
+      }
+    ],
+    "4010": [
+      {
+        "image": "4010-00.png",
+        "xoffset": -42,
+        "yoffset": 26
+      },
+      {
+        "image": "4010-01.png",
+        "xoffset": -44,
+        "yoffset": 17
+      },
+      {
+        "image": "4010-02.png",
+        "xoffset": -51,
+        "yoffset": 14
+      },
+      {
+        "image": "4010-03.png",
+        "xoffset": -25,
+        "yoffset": 11
+      },
+      {
+        "image": "4010-04.png",
+        "xoffset": 1,
+        "yoffset": 10
+      },
+      {
+        "image": "4010-05.png",
+        "xoffset": 14,
+        "yoffset": 10
+      }
+    ],
+    "4020": [
+      {
+        "image": "4020-00.png",
+        "xoffset": -2,
+        "yoffset": -48
+      },
+      {
+        "image": "4020-01.png",
+        "xoffset": 12,
+        "yoffset": -43
+      },
+      {
+        "image": "4020-02.png",
+        "xoffset": 11,
+        "yoffset": -37
+      },
+      {
+        "image": "4020-03.png",
+        "xoffset": 9,
+        "yoffset": -26
+      },
+      {
+        "image": "4020-04.png",
+        "xoffset": 7,
+        "yoffset": -19
+      },
+      {
+        "image": "4020-05.png",
+        "xoffset": 7,
+        "yoffset": 13
+      }
+    ],
+    "4030": [
+      {
+        "image": "4030-00.png",
+        "xoffset": -50,
+        "yoffset": 0
+      },
+      {
+        "image": "4030-01.png",
+        "xoffset": -53,
+        "yoffset": -10
+      },
+      {
+        "image": "4030-02.png",
+        "xoffset": -52,
+        "yoffset": -7
+      },
+      {
+        "image": "4030-03.png",
+        "xoffset": -61,
+        "yoffset": 3
+      },
+      {
+        "image": "4030-04.png",
+        "xoffset": -8,
+        "yoffset": 9
+      },
+      {
+        "image": "4030-05.png",
+        "xoffset": 10,
+        "yoffset": 14
+      }
+    ],
+    "4040": [
+      {
+        "image": "4040-00.png",
+        "xoffset": -50,
+        "yoffset": -50
+      },
+      {
+        "image": "4040-01.png",
+        "xoffset": -50,
+        "yoffset": -50
+      },
+      {
+        "image": "4040-02.png",
+        "xoffset": -40,
+        "yoffset": -40
+      },
+      {
+        "image": "4040-03.png",
+        "xoffset": -28,
+        "yoffset": -28
+      },
+      {
+        "image": "4040-04.png",
+        "xoffset": -16,
+        "yoffset": -16
+      },
+      {
+        "image": "4040-05.png",
+        "xoffset": 1,
+        "yoffset": 1
+      }
+    ],
+    "4100": [
+      {
+        "image": "4100-00.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4100-01.png",
+        "xoffset": -159,
+        "yoffset": 0
+      }
+    ],
+    "4200": [
+      {
+        "image": "4200-00.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4200-01.png",
+        "xoffset": -1,
+        "yoffset": -1
+      },
+      {
+        "image": "4200-02.png",
+        "xoffset": -2,
+        "yoffset": -2
+      },
+      {
+        "image": "4200-03.png",
+        "xoffset": -3,
+        "yoffset": -3
+      },
+      {
+        "image": "4200-04.png",
+        "xoffset": -4,
+        "yoffset": -4
+      },
+      {
+        "image": "4200-05.png",
+        "xoffset": -5,
+        "yoffset": -5
+      },
+      {
+        "image": "4200-06.png",
+        "xoffset": -6,
+        "yoffset": -6
+      },
+      {
+        "image": "4200-07.png",
+        "xoffset": -6,
+        "yoffset": -6
+      },
+      {
+        "image": "4200-08.png",
+        "xoffset": -6,
+        "yoffset": -6
+      },
+      {
+        "image": "4200-09.png",
+        "xoffset": -6,
+        "yoffset": -6
+      },
+      {
+        "image": "4200-10.png",
+        "xoffset": -6,
+        "yoffset": -6
+      }
+    ],
+    "4300": [
+      {
+        "image": "4300-00.png",
+        "xoffset": -18,
+        "yoffset": -45
+      }
+    ],
+    "4400": [
+      {
+        "image": "4400-00.png",
+        "xoffset": 0,
+        "yoffset": -29
+      },
+      {
+        "image": "4400-01.png",
+        "xoffset": 0,
+        "yoffset": -6
+      },
+      {
+        "image": "4400-02.png",
+        "xoffset": 0,
+        "yoffset": -8
+      },
+      {
+        "image": "4400-03.png",
+        "xoffset": -4,
+        "yoffset": -7
+      },
+      {
+        "image": "4400-04.png",
+        "xoffset": -5,
+        "yoffset": -7
+      },
+      {
+        "image": "4400-05.png",
+        "xoffset": -6,
+        "yoffset": -8
+      }
+    ],
+    "4600": [
+      {
+        "image": "4600-00.png",
+        "xoffset": -39,
+        "yoffset": -43
+      },
+      {
+        "image": "4600-01.png",
+        "xoffset": -40,
+        "yoffset": -44
+      },
+      {
+        "image": "4600-02.png",
+        "xoffset": -44,
+        "yoffset": -40
+      }
+    ],
+    "4800": [
+      {
+        "image": "4800-00.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-01.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-02.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-03.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-04.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-05.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-06.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-07.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-08.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-09.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-10.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-11.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-12.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-13.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-14.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-15.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-16.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-17.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-18.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4800-19.png",
+        "xoffset": 0,
+        "yoffset": 0
+      }
+    ],
+    "4900": [
+      {
+        "image": "4900-00.png",
+        "xoffset": -16,
+        "yoffset": -75
+      },
+      {
+        "image": "4900-01.png",
+        "xoffset": -16,
+        "yoffset": -75
+      }
+    ],
+    "4910": [
+      {
+        "image": "4910-00.png",
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      {
+        "image": "4910-01.png",
+        "xoffset": 0,
+        "yoffset": 0
+      }
+    ],
+    "5000": [
+      {
+        "image": "5000-00.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "5000-01.png",
+        "xoffset": -27,
+        "yoffset": -46
+      },
+      {
+        "image": "5000-02.png",
+        "xoffset": -30,
+        "yoffset": -49
+      },
+      {
+        "image": "5000-03.png",
+        "xoffset": -33,
+        "yoffset": -51
+      },
+      {
+        "image": "5000-04.png",
+        "xoffset": -30,
+        "yoffset": -48
+      },
+      {
+        "image": "5000-10.png",
+        "xoffset": -21,
+        "yoffset": -46
+      },
+      {
+        "image": "5000-11.png",
+        "xoffset": -21,
+        "yoffset": -46
+      },
+      {
+        "image": "5000-12.png",
+        "xoffset": -21,
+        "yoffset": -49
+      },
+      {
+        "image": "5000-13.png",
+        "xoffset": -22,
+        "yoffset": -47
+      },
+      {
+        "image": "5000-20.png",
+        "xoffset": -21,
+        "yoffset": -48
+      },
+      {
+        "image": "5000-21.png",
+        "xoffset": -21,
+        "yoffset": -49
+      },
+      {
+        "image": "5000-22.png",
+        "xoffset": -21,
+        "yoffset": -48
+      },
+      {
+        "image": "5000-23.png",
+        "xoffset": -22,
+        "yoffset": -50
+      },
+      {
+        "image": "5000-24.png",
+        "xoffset": -21,
+        "yoffset": -48
+      },
+      {
+        "image": "5000-25.png",
+        "xoffset": -25,
+        "yoffset": -52
+      },
+      {
+        "image": "5000-26.png",
+        "xoffset": -26,
+        "yoffset": -52
+      }
+    ],
+    "5001": [
+      {
+        "image": "5001-00.png",
+        "xoffset": -21,
+        "yoffset": -24
+      },
+      {
+        "image": "5001-10.png",
+        "xoffset": -17,
+        "yoffset": -23
+      },
+      {
+        "image": "5001-20.png",
+        "xoffset": -17,
+        "yoffset": -24
+      }
+    ],
+    "5002": [
+      {
+        "image": "5002-00.png",
+        "xoffset": -23,
+        "yoffset": -9
+      },
+      {
+        "image": "5002-10.png",
+        "xoffset": -23,
+        "yoffset": -9
+      },
+      {
+        "image": "5002-20.png",
+        "xoffset": -24,
+        "yoffset": -10
+      }
+    ],
+    "5010": [
+      {
+        "image": "5010-00.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "5010-10.png",
+        "xoffset": -21,
+        "yoffset": -46
+      },
+      {
+        "image": "5010-20.png",
+        "xoffset": -21,
+        "yoffset": -48
+      }
+    ],
+    "5011": [
+      {
+        "image": "5011-00.png",
+        "xoffset": -21,
+        "yoffset": -24
+      },
+      {
+        "image": "5011-10.png",
+        "xoffset": -17,
+        "yoffset": -23
+      },
+      {
+        "image": "5011-20.png",
+        "xoffset": -17,
+        "yoffset": -24
+      }
+    ],
+    "5012": [
+      {
+        "image": "5012-00.png",
+        "xoffset": -23,
+        "yoffset": -9
+      },
+      {
+        "image": "5012-10.png",
+        "xoffset": -23,
+        "yoffset": -9
+      },
+      {
+        "image": "5012-20.png",
+        "xoffset": -24,
+        "yoffset": -10
+      }
+    ],
+    "5020": [
+      {
+        "image": "5020-00.png",
+        "xoffset": -22,
+        "yoffset": -44
+      },
+      {
+        "image": "5020-10.png",
+        "xoffset": -21,
+        "yoffset": -42
+      },
+      {
+        "image": "5020-20.png",
+        "xoffset": -19,
+        "yoffset": -42
+      }
+    ],
+    "5030": [
+      {
+        "image": "5030-00.png",
+        "xoffset": -17,
+        "yoffset": -51
+      },
+      {
+        "image": "5030-01.png",
+        "xoffset": -21,
+        "yoffset": -50
+      },
+      {
+        "image": "5030-10.png",
+        "xoffset": -25,
+        "yoffset": -50
+      },
+      {
+        "image": "5030-11.png",
+        "xoffset": -27,
+        "yoffset": -50
+      },
+      {
+        "image": "5030-20.png",
+        "xoffset": -32,
+        "yoffset": -46
+      },
+      {
+        "image": "5030-30.png",
+        "xoffset": -27,
+        "yoffset": -50
+      },
+      {
+        "image": "5030-31.png",
+        "xoffset": -29,
+        "yoffset": -48
+      },
+      {
+        "image": "5030-40.png",
+        "xoffset": -25,
+        "yoffset": -49
+      },
+      {
+        "image": "5030-50.png",
+        "xoffset": -20,
+        "yoffset": -52
+      }
+    ],
+    "5031": [
+      {
+        "image": "5031-00.png",
+        "xoffset": -15,
+        "yoffset": -25
+      },
+      {
+        "image": "5031-10.png",
+        "xoffset": -21,
+        "yoffset": -23
+      },
+      {
+        "image": "5031-20.png",
+        "xoffset": -27,
+        "yoffset": -15
+      },
+      {
+        "image": "5031-30.png",
+        "xoffset": -22,
+        "yoffset": -19
+      },
+      {
+        "image": "5031-40.png",
+        "xoffset": -19,
+        "yoffset": -20
+      },
+      {
+        "image": "5031-50.png",
+        "xoffset": -16,
+        "yoffset": -25
+      }
+    ],
+    "5032": [
+      {
+        "image": "5032-00.png",
+        "xoffset": -10,
+        "yoffset": -9
+      },
+      {
+        "image": "5032-10.png",
+        "xoffset": -8,
+        "yoffset": -12
+      },
+      {
+        "image": "5032-20.png",
+        "xoffset": -12,
+        "yoffset": -15
+      },
+      {
+        "image": "5032-30.png",
+        "xoffset": -7,
+        "yoffset": -19
+      },
+      {
+        "image": "5032-40.png",
+        "xoffset": -8,
+        "yoffset": -29
+      },
+      {
+        "image": "5032-50.png",
+        "xoffset": -7,
+        "yoffset": -37
+      }
+    ],
+    "5040": [
+      {
+        "image": "5040-00.png",
+        "xoffset": -26,
+        "yoffset": -27
+      },
+      {
+        "image": "5040-10.png",
+        "xoffset": -31,
+        "yoffset": -23
+      },
+      {
+        "image": "5040-20.png",
+        "xoffset": -31,
+        "yoffset": -23
+      }
+    ],
+    "5041": [
+      {
+        "image": "5041-00.png",
+        "xoffset": -22,
+        "yoffset": -21
+      },
+      {
+        "image": "5041-10.png",
+        "xoffset": -27,
+        "yoffset": -17
+      },
+      {
+        "image": "5041-20.png",
+        "xoffset": -27,
+        "yoffset": -17
+      }
+    ],
+    "5042": [
+      {
+        "image": "5042-00.png",
+        "xoffset": -8,
+        "yoffset": -19
+      },
+      {
+        "image": "5042-10.png",
+        "xoffset": -13,
+        "yoffset": -15
+      },
+      {
+        "image": "5042-20.png",
+        "xoffset": -13,
+        "yoffset": -15
+      }
+    ],
+    "5060": [
+      {
+        "image": "5060-00.png",
+        "xoffset": -21,
+        "yoffset": -46
+      },
+      {
+        "image": "5060-10.png",
+        "xoffset": -22,
+        "yoffset": -51
+      }
+    ],
+    "5061": [
+      {
+        "image": "5061-00.png",
+        "xoffset": -17,
+        "yoffset": -22
+      },
+      {
+        "image": "5061-10.png",
+        "xoffset": -28,
+        "yoffset": -25
+      }
+    ],
+    "5062": [
+      {
+        "image": "5062-00.png",
+        "xoffset": -23,
+        "yoffset": -9
+      },
+      {
+        "image": "5062-10.png",
+        "xoffset": -21,
+        "yoffset": -41
+      }
+    ],
+    "5070": [
+      {
+        "image": "5070-00.png",
+        "xoffset": -22,
+        "yoffset": -52
+      },
+      {
+        "image": "5070-01.png",
+        "xoffset": -22,
+        "yoffset": -50
+      },
+      {
+        "image": "5070-10.png",
+        "xoffset": -24,
+        "yoffset": -55
+      },
+      {
+        "image": "5070-11.png",
+        "xoffset": -26,
+        "yoffset": -48
+      },
+      {
+        "image": "5070-20.png",
+        "xoffset": -26,
+        "yoffset": -44
+      }
+    ],
+    "5071": [
+      {
+        "image": "5071-00.png",
+        "xoffset": -22,
+        "yoffset": -24
+      },
+      {
+        "image": "5071-10.png",
+        "xoffset": -28,
+        "yoffset": -26
+      },
+      {
+        "image": "5071-20.png",
+        "xoffset": -31,
+        "yoffset": -17
+      }
+    ],
+    "5072": [
+      {
+        "image": "5072-00.png",
+        "xoffset": -25,
+        "yoffset": -8
+      },
+      {
+        "image": "5072-10.png",
+        "xoffset": -42,
+        "yoffset": -16
+      },
+      {
+        "image": "5072-20.png",
+        "xoffset": -46,
+        "yoffset": -15
+      }
+    ]
+  }
+}
